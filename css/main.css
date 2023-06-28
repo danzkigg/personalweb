@@ -1,0 +1,16 @@
+.text-alight-center {
+    text-align: center;
+}
+
+.text-alight-right {
+    text-align: right;
+}
+
+.bgcolor-main {
+    background-color: black;
+    color: white;
+}
+
+.footer-sizesm {
+    font-size: 0.8rem;
+}
